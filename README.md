@@ -56,7 +56,8 @@ Output:
 ## BERIKUT SCREENSHOT VISUALCODE
 
 
-![image](https://github.com/user-attachments/assets/28a206ec-beef-4e79-9dee-badeed437e57)
+![gambar](https://github.com/user-attachments/assets/70015af0-170e-4e74-8cbc-8e3e86c02b8b)
+
 
 
 
