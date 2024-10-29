@@ -124,8 +124,7 @@ gaji_bersih=gaji_pokok−potongan
 ## BERIKUT SCREENSHOT VISUALCODE
 
 
-!![image](https://github.com/user-attachments/assets/6a255679-6735-4be3-af37-7a0762389279)
-
+![gambar](https://github.com/user-attachments/assets/c0a76d18-863e-492a-beeb-34ffaef1d657)
 
 ## LATIHAN 3
 ### PENGGUNAAN KONDISI OR
