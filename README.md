@@ -124,8 +124,7 @@ gaji_bersih=gaji_pokok−potongan
 ## BERIKUT SCREENSHOT VISUALCODE
 
 
-![image](https://github.com/user-attachments/assets/8ee91405-0bbb-41b3-a1ae-cf618dbc9b2d)
-
+!![image](https://github.com/user-attachments/assets/6a255679-6735-4be3-af37-7a0762389279)
 
 
 ## LATIHAN 3
